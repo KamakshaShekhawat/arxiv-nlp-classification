@@ -1,0 +1,29 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+spacy
+gensim
+sentence-transformers
+transformers
+torch
+gradio
+tqdm
+requests
+scipy
+jupyter
+notebook
+
+# NLP utilities
+rouge-score
+evaluate
+
+# Optional OpenAI integration (if used)
+openai
+
+# Vector search / RAG
+faiss-cpu
+
+# Notebook utilities
+ipykernel

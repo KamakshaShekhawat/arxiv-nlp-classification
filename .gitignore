@@ -1,0 +1,6 @@
+data/arxiv_processed.csv
+data/arxiv-metadata-oai-snapshot.json
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
